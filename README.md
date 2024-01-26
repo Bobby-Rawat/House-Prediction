@@ -34,5 +34,5 @@ Test File -->  This file has all the information we need to check how well the m
 
 <h1>Summary: House Grade Prediction</h1>
 
-<h3><p>We made our house grade predictions super accurate. We found that Support Vector Classification (SVC) worked really well for us and achieving an impressive accuracy of 98.6% on the test data.</p>
+<h3><p>We made our house grade predictions super accurate. We found that Support Vector Classification (SVC) worked really well for us and achieving an impressive accuracy of 97.30% on the test data.</p>
 <p>By smartly removing a column and filling in missing info cleverly, we boosted our accuracy a lot. We tried out different methods, but SVC was the star. Even though our current method is doing great, we suggest trying more approaches. Who knows, there might be an even better way to predict house grades!</p></h3>
